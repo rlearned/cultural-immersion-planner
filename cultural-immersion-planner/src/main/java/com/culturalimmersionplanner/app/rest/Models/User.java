@@ -1,8 +1,6 @@
 package com.culturalimmersionplanner.app.rest.Models;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @Entity
 public class User {
