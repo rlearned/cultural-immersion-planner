@@ -30,6 +30,11 @@ public class ExperienceController {
                 new RuntimeException("Experience not found"));
     }
 
+//    @PutMapping("/{id}")
+//    public void updateExperience(@PathVariable Long id) {
+//        experienceRepository.
+//    }
+
     @GetMapping
     public List<Experience> getAllExperiences() {
         return experienceRepository.findAll();
