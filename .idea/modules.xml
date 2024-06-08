@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cultural-immersion-planner.iml" filepath="$PROJECT_DIR$/.idea/cultural-immersion-planner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cultural-immersion-planner/cultural-immersion-planner.iml" filepath="$PROJECT_DIR$/cultural-immersion-planner/cultural-immersion-planner.iml" />
     </modules>
   </component>
 </project>
